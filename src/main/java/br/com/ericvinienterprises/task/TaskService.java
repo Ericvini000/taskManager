@@ -29,7 +29,6 @@ public class TaskService {
     public void remove(UUID uuid) {
         TaskEntity task = taskRepo.findById(uuid).get();
         taskRepo.delete(task);
-        return;
     }
     
 }
