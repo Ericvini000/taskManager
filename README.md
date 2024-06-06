@@ -33,14 +33,14 @@ Um cliente requisitou o desenvolvimento de uma aplicação Java focada na gestã
       * 📄 TaskEntity.java
       * 📄 TaskRepository.java
       * 📄 TaskService.java
-    * 📂 exceptions
-      - 📂 customExceptions
-        - 📄 NotFoundException.java
-        * 📂 dtos
-          - 📄 ErrorMessageDTO.java
-        - 📄 GlobalExcpetionHandler.java
-    * 📂 configurations
-      - 📄 GlobalConfig.java
+      * 📂 exceptions
+        - 📂 customExceptions
+          - 📄 NotFoundException.java
+          * 📂 dtos
+            - 📄 ErrorMessageDTO.java
+          - 📄 GlobalExcpetionHandler.java
+      * 📂 configurations
+        - 📄 GlobalConfig.java
 
 ## Rotas / Endpoints
 
