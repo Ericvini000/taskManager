@@ -1,4 +1,4 @@
-package br.com.ericvinienterprises.taskManager;
+package br.com.ericvinienterprises.task;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

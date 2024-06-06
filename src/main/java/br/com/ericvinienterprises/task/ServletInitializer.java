@@ -1,4 +1,4 @@
-package br.com.ericvinienterprises.taskManager;
+package br.com.ericvinienterprises.task;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
